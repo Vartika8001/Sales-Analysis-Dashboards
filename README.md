@@ -37,6 +37,14 @@ This repository contains three Power BI sales analysis dashboards built to analy
 
 ---
 
+### 🛒 1️⃣ Automobile Sales Analysis
+- Yearly sales analysis  
+- Productline-wise performance  
+- Top and bottom selling products  
+- Regional sales distribution
+
+---
+
 ## 🛠️ Tools Used
 - **Power BI** – Data modeling & dashboard creation  
 - **Excel/CSV** – Data preprocessing  
