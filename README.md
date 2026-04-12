@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Project Overview
-This repository contains three Power BI sales analysis dashboards built to analyze revenue trends, customer behavior, and product performance across different industries. Each dashboard applies consistent KPI tracking and data visualization techniques to generate actionable business insights.
+This repository contains four Power BI sales analysis dashboards built to analyze revenue trends, customer behavior, and product performance across different industries. Each dashboard applies consistent KPI tracking and data visualization techniques to generate actionable business insights.
 
 ---
 
